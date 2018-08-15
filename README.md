@@ -1,0 +1,2 @@
+# SSMO
+saltstack zabbix cmdb
